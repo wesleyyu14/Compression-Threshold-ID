@@ -1,6 +1,4 @@
-# final-project-threshold_id
-
-MIR Final Project with Wesley Yu and Jose Diaz
+# MIR Final Project w/ Wesley Yu & Jose Diaz
 
 /diaz_yu_final.pdf is the final paper. 
 
