@@ -1,5 +1,7 @@
 # final-project-threshold_id
 
+MIR Final Project with Wesley Yu and Jose Diaz
+
 /diaz_yu_final.pdf is the final paper. 
 
 /diaz-yu-final-slides is the presentation. 
